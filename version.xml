@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CDS>
+ <product>
+ <name>ECM [Ease Change-log Manager]</name>
+  <current_version>10101</current_version>
+  <current_version_readable>1.1.1</current_version_readable>
+  <current_version_checksum>6dfc35c47756e962ef055d1049f1f8ec</current_version_checksum>
+  <required_version>10101</required_version>
+   <required_version_readable>1.1.1</required_version_readable>
+  <required_version_checksum>6dfc35c47756e962ef055d1049f1f8ec</required_version_checksum>
+  <release_msg>	Basic	</release_msg>
+  <release_timestamp>	1403501965 </release_timestamp>
+  <release_by>	DeveloperCK	</release_by>
+
+ </product>
+
+</CDS>
